@@ -13,6 +13,6 @@
 (function () {
    'use strict';
 
-   console.log("teste");
+   console.log("teste2");
    // Your code here...
 })();
