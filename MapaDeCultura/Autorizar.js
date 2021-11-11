@@ -6,7 +6,7 @@
 // @author       You
 // @match        https://mapadasculturas.ifnmg.edu.br/b/autorizar
 // @icon         https://www.google.com/s2/favicons?domain=edu.br
-// @updateURL    https://raw.githubusercontent.com/marlontf/scriptsJS/main/MapaDeCultura/Autorizar.js?token=AIRHFOB3HTX2IRWJN6KUFDDBRVI32
+// @updateURL    https://raw.githubusercontent.com/marlontf/scriptsJS/main/MapaDeCultura/Autorizar.js
 // @grant        none
 // ==/UserScript==
 
